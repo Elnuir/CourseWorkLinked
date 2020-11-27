@@ -1,0 +1,4384 @@
+fileFormatVersion: 2
+guid: 0465cf9fb2a9fd4478f23afcfc696c01
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3292684594807189452
+    second: intbuilding7a_0
+  - first:
+      213: -6598422034451717792
+    second: intbuilding7a_1
+  - first:
+      213: -2230159066450154401
+    second: intbuilding7a_2
+  - first:
+      213: -1406608939974236467
+    second: intbuilding7a_3
+  - first:
+      213: 8854429079926026307
+    second: intbuilding7a_4
+  - first:
+      213: -7056207101791301689
+    second: intbuilding7a_5
+  - first:
+      213: -1455291083515873358
+    second: intbuilding7a_6
+  - first:
+      213: -2827071171628907551
+    second: intbuilding7a_7
+  - first:
+      213: -995422589898414366
+    second: intbuilding7a_8
+  - first:
+      213: 3168387556720042942
+    second: intbuilding7a_9
+  - first:
+      213: -8376127577663393822
+    second: intbuilding7a_10
+  - first:
+      213: -4360132729376024050
+    second: intbuilding7a_11
+  - first:
+      213: -382631955986595345
+    second: intbuilding7a_12
+  - first:
+      213: -5996928012547043312
+    second: intbuilding7a_13
+  - first:
+      213: 6110820318381303145
+    second: intbuilding7a_14
+  - first:
+      213: -8171511818701231656
+    second: intbuilding7a_15
+  - first:
+      213: -2533568886983973320
+    second: intbuilding7a_16
+  - first:
+      213: 1078845930578851238
+    second: intbuilding7a_17
+  - first:
+      213: 6758779233411618512
+    second: intbuilding7a_18
+  - first:
+      213: -367600426219953648
+    second: intbuilding7a_19
+  - first:
+      213: 9047549517706490096
+    second: intbuilding7a_20
+  - first:
+      213: -958141456445135300
+    second: intbuilding7a_21
+  - first:
+      213: -7764101774233978601
+    second: intbuilding7a_22
+  - first:
+      213: 3658664000383867414
+    second: intbuilding7a_23
+  - first:
+      213: -96869687079721938
+    second: intbuilding7a_24
+  - first:
+      213: -4042579736439515504
+    second: intbuilding7a_25
+  - first:
+      213: 1320270329177117611
+    second: intbuilding7a_26
+  - first:
+      213: -3166534378051546424
+    second: intbuilding7a_27
+  - first:
+      213: 5951303903837994660
+    second: intbuilding7a_28
+  - first:
+      213: -1016431707550776270
+    second: intbuilding7a_29
+  - first:
+      213: -1880632821214016745
+    second: intbuilding7a_30
+  - first:
+      213: 1049026715173110051
+    second: intbuilding7a_31
+  - first:
+      213: 4775197173919599452
+    second: intbuilding7a_32
+  - first:
+      213: 5411051077048217199
+    second: intbuilding7a_33
+  - first:
+      213: -2077764531922652305
+    second: intbuilding7a_34
+  - first:
+      213: 4973645053830958268
+    second: intbuilding7a_35
+  - first:
+      213: -5994542172197827949
+    second: intbuilding7a_36
+  - first:
+      213: -2347650234694085063
+    second: intbuilding7a_37
+  - first:
+      213: 1298868157552821839
+    second: intbuilding7a_38
+  - first:
+      213: -5152863108954913034
+    second: intbuilding7a_39
+  - first:
+      213: 3563116369191023050
+    second: intbuilding7a_40
+  - first:
+      213: -4773655227912881659
+    second: intbuilding7a_41
+  - first:
+      213: -7953663224373213103
+    second: intbuilding7a_42
+  - first:
+      213: -1496552843209606708
+    second: intbuilding7a_43
+  - first:
+      213: -905262792730676659
+    second: intbuilding7a_44
+  - first:
+      213: 883424956285510231
+    second: intbuilding7a_45
+  - first:
+      213: -5574617635503887202
+    second: intbuilding7a_46
+  - first:
+      213: 1072564784328653696
+    second: intbuilding7a_47
+  - first:
+      213: 2385718050459115259
+    second: intbuilding7a_48
+  - first:
+      213: -2620069373010022571
+    second: intbuilding7a_49
+  - first:
+      213: -452915260767965993
+    second: intbuilding7a_50
+  - first:
+      213: -2462498567171727946
+    second: intbuilding7a_51
+  - first:
+      213: -1133758587406405494
+    second: intbuilding7a_52
+  - first:
+      213: 9068786852502810402
+    second: intbuilding7a_53
+  - first:
+      213: -1893876892483689991
+    second: intbuilding7a_54
+  - first:
+      213: -6086583407781316384
+    second: intbuilding7a_55
+  - first:
+      213: -1178329676577088026
+    second: intbuilding7a_56
+  - first:
+      213: 4124718361753974926
+    second: intbuilding7a_57
+  - first:
+      213: 7679298463807393568
+    second: intbuilding7a_58
+  - first:
+      213: 5315445763403580934
+    second: intbuilding7a_59
+  - first:
+      213: -6572755006406680330
+    second: intbuilding7a_60
+  - first:
+      213: 7796016359680327840
+    second: intbuilding7a_61
+  - first:
+      213: 4857920880958147318
+    second: intbuilding7a_62
+  - first:
+      213: 2099155604468083242
+    second: intbuilding7a_63
+  - first:
+      213: -1471469176550529649
+    second: intbuilding7a_64
+  - first:
+      213: -6883242777314329764
+    second: intbuilding7a_65
+  - first:
+      213: -6128095796346890352
+    second: intbuilding7a_66
+  - first:
+      213: -2890923598962100427
+    second: intbuilding7a_67
+  - first:
+      213: -6254257627024783402
+    second: intbuilding7a_68
+  - first:
+      213: 6418710246239399852
+    second: intbuilding7a_69
+  - first:
+      213: 8934555653788743212
+    second: intbuilding7a_70
+  - first:
+      213: 1923056729943070484
+    second: intbuilding7a_71
+  - first:
+      213: -5870133035559841895
+    second: intbuilding7a_72
+  - first:
+      213: 4634711912174708322
+    second: intbuilding7a_73
+  - first:
+      213: -2522947135765537608
+    second: intbuilding7a_74
+  - first:
+      213: -3426856320804342032
+    second: intbuilding7a_75
+  - first:
+      213: 4431976803343017767
+    second: intbuilding7a_76
+  - first:
+      213: -6309343526323794059
+    second: intbuilding7a_77
+  - first:
+      213: 155684664959872266
+    second: intbuilding7a_78
+  - first:
+      213: 4752263381067447877
+    second: intbuilding7a_79
+  - first:
+      213: 4744911055806484160
+    second: intbuilding7a_80
+  - first:
+      213: 4881754867622388744
+    second: intbuilding7a_81
+  - first:
+      213: -130972498291821329
+    second: intbuilding7a_82
+  - first:
+      213: -3776302288169238799
+    second: intbuilding7a_83
+  - first:
+      213: -8822271525778061560
+    second: intbuilding7a_84
+  - first:
+      213: -2079655048235542172
+    second: intbuilding7a_85
+  - first:
+      213: -5933762703135503110
+    second: intbuilding7a_86
+  - first:
+      213: 3863849751790489760
+    second: intbuilding7a_87
+  - first:
+      213: 7329977592205588967
+    second: intbuilding7a_88
+  - first:
+      213: 6890302415049027429
+    second: intbuilding7a_89
+  - first:
+      213: 6626877271668442788
+    second: intbuilding7a_90
+  - first:
+      213: 8890118205186743319
+    second: intbuilding7a_91
+  - first:
+      213: 4104858531278856926
+    second: intbuilding7a_92
+  - first:
+      213: -6251862335300093943
+    second: intbuilding7a_93
+  - first:
+      213: 6672152832368145367
+    second: intbuilding7a_94
+  - first:
+      213: 8545989590403587100
+    second: intbuilding7a_95
+  - first:
+      213: -4045636363735450806
+    second: intbuilding7a_96
+  - first:
+      213: 7738663466012908962
+    second: intbuilding7a_97
+  - first:
+      213: 6617582302847864702
+    second: intbuilding7a_98
+  - first:
+      213: -6690487226671638135
+    second: intbuilding7a_99
+  - first:
+      213: 1862008136150378644
+    second: intbuilding7a_100
+  - first:
+      213: -3959268972280257183
+    second: intbuilding7a_101
+  - first:
+      213: 3270219938986791746
+    second: intbuilding7a_102
+  - first:
+      213: -739664338541934786
+    second: intbuilding7a_103
+  - first:
+      213: -2321486034797505773
+    second: intbuilding7a_104
+  - first:
+      213: -93139333105091327
+    second: intbuilding7a_105
+  - first:
+      213: -6631875037387949666
+    second: intbuilding7a_106
+  - first:
+      213: -7023875630053736682
+    second: intbuilding7a_107
+  - first:
+      213: -350997929149486255
+    second: intbuilding7a_108
+  - first:
+      213: 7492871452958034313
+    second: intbuilding7a_109
+  - first:
+      213: -6365651446218804216
+    second: intbuilding7a_110
+  - first:
+      213: -8483330577451824005
+    second: intbuilding7a_111
+  - first:
+      213: -4036951091744667650
+    second: intbuilding7a_112
+  - first:
+      213: -2223606367157302048
+    second: intbuilding7a_113
+  - first:
+      213: 6298898620703944190
+    second: intbuilding7a_114
+  - first:
+      213: 5540755710480028860
+    second: intbuilding7a_115
+  - first:
+      213: -1932337511177138273
+    second: intbuilding7a_116
+  - first:
+      213: -5781308388101962474
+    second: intbuilding7a_117
+  - first:
+      213: -4819571544006677411
+    second: intbuilding7a_118
+  - first:
+      213: -3440724800632259364
+    second: intbuilding7a_119
+  - first:
+      213: 755861385911293484
+    second: intbuilding7a_120
+  - first:
+      213: -2980095055856019950
+    second: intbuilding7a_121
+  - first:
+      213: 4155615722891076999
+    second: intbuilding7a_122
+  - first:
+      213: 9106794528208217644
+    second: intbuilding7a_123
+  - first:
+      213: 1469082822231324720
+    second: intbuilding7a_124
+  - first:
+      213: 1992366732795281530
+    second: intbuilding7a_125
+  - first:
+      213: -3639881869794602810
+    second: intbuilding7a_126
+  - first:
+      213: -7087086946816480771
+    second: intbuilding7a_127
+  - first:
+      213: 7738526206545093406
+    second: intbuilding7a_128
+  - first:
+      213: -8990977377233690295
+    second: intbuilding7a_129
+  - first:
+      213: -752347920263250076
+    second: intbuilding7a_130
+  - first:
+      213: 7917431747620490254
+    second: intbuilding7a_131
+  - first:
+      213: 1967700027065726989
+    second: intbuilding7a_132
+  - first:
+      213: 4280166089868100882
+    second: intbuilding7a_133
+  - first:
+      213: 6526503387494275801
+    second: intbuilding7a_134
+  - first:
+      213: -2920339199998356019
+    second: intbuilding7a_135
+  - first:
+      213: 5451852451534606007
+    second: intbuilding7a_136
+  - first:
+      213: 5329310388910129601
+    second: intbuilding7a_137
+  - first:
+      213: -5686223540697157393
+    second: intbuilding7a_138
+  - first:
+      213: -7134741662153277792
+    second: intbuilding7a_139
+  - first:
+      213: 5039462229150173007
+    second: intbuilding7a_140
+  - first:
+      213: -7811013242329404487
+    second: intbuilding7a_141
+  - first:
+      213: 1811948934078901404
+    second: intbuilding7a_142
+  - first:
+      213: 1982493994995185533
+    second: intbuilding7a_143
+  - first:
+      213: -615228436117918548
+    second: intbuilding7a_144
+  - first:
+      213: -1232306460422791421
+    second: intbuilding7a_145
+  - first:
+      213: 4728004853434590876
+    second: intbuilding7a_146
+  - first:
+      213: 4197370866359476685
+    second: intbuilding7a_147
+  - first:
+      213: -6109604666911388698
+    second: intbuilding7a_148
+  - first:
+      213: -517334633549424889
+    second: intbuilding7a_149
+  - first:
+      213: -2765944050927003922
+    second: intbuilding7a_150
+  - first:
+      213: 7001129025861497456
+    second: intbuilding7a_151
+  - first:
+      213: 3921509653376058887
+    second: intbuilding7a_152
+  - first:
+      213: 3816969860370021713
+    second: intbuilding7a_153
+  - first:
+      213: 3662053643576336055
+    second: intbuilding7a_154
+  - first:
+      213: -6289505953884942407
+    second: intbuilding7a_155
+  - first:
+      213: 7772693641852669513
+    second: intbuilding7a_156
+  - first:
+      213: 2500363020974898639
+    second: intbuilding7a_157
+  - first:
+      213: 1826062065395268722
+    second: intbuilding7a_158
+  - first:
+      213: -1124243036907992229
+    second: intbuilding7a_159
+  - first:
+      213: -3340392544461277553
+    second: intbuilding7a_160
+  - first:
+      213: 6286720345981953207
+    second: intbuilding7a_161
+  - first:
+      213: 6899294954794897398
+    second: intbuilding7a_162
+  - first:
+      213: -424845361373244349
+    second: intbuilding7a_163
+  - first:
+      213: -1745855105522744243
+    second: intbuilding7a_164
+  - first:
+      213: -5784851692572780750
+    second: intbuilding7a_165
+  - first:
+      213: 7637804372161555266
+    second: intbuilding7a_166
+  - first:
+      213: -1492752089297907363
+    second: intbuilding7a_167
+  - first:
+      213: -4281962724929316998
+    second: intbuilding7a_168
+  - first:
+      213: -5547999263197848826
+    second: intbuilding7a_169
+  - first:
+      213: 4140695064517637304
+    second: intbuilding7a_170
+  - first:
+      213: 644525250012922519
+    second: intbuilding7a_171
+  - first:
+      213: -1689783877648129884
+    second: intbuilding7a_172
+  - first:
+      213: -5678131137336123597
+    second: intbuilding7a_173
+  - first:
+      213: -3966074737541444269
+    second: intbuilding7a_174
+  - first:
+      213: 1578938003877610869
+    second: intbuilding7a_175
+  - first:
+      213: 1823562425016435200
+    second: intbuilding7a_176
+  - first:
+      213: -3455139599872583982
+    second: intbuilding7a_177
+  - first:
+      213: 7193765123764794989
+    second: intbuilding7a_178
+  - first:
+      213: -1189611713602089495
+    second: intbuilding7a_179
+  - first:
+      213: 4196474590171846440
+    second: intbuilding7a_180
+  - first:
+      213: 9076041512806304030
+    second: intbuilding7a_181
+  - first:
+      213: -6543552103618742980
+    second: intbuilding7a_182
+  - first:
+      213: 5507681205576474523
+    second: intbuilding7a_183
+  - first:
+      213: 3380376960599879608
+    second: intbuilding7a_184
+  - first:
+      213: 39396594845124646
+    second: intbuilding7a_185
+  - first:
+      213: -3650202241058969092
+    second: intbuilding7a_186
+  - first:
+      213: -1943294642701030476
+    second: intbuilding7a_187
+  - first:
+      213: 45966002434175214
+    second: intbuilding7a_188
+  - first:
+      213: -3094134992612530070
+    second: intbuilding7a_189
+  - first:
+      213: 525485633696733935
+    second: intbuilding7a_190
+  - first:
+      213: 7123441279602477238
+    second: intbuilding7a_191
+  - first:
+      213: 2907513883666708206
+    second: intbuilding7a_192
+  - first:
+      213: 7876142996524271571
+    second: intbuilding7a_193
+  - first:
+      213: 1312295910723829389
+    second: intbuilding7a_194
+  - first:
+      213: 5266859710151943504
+    second: intbuilding7a_195
+  - first:
+      213: -5965045079702448580
+    second: intbuilding7a_196
+  - first:
+      213: -8520152429078958482
+    second: intbuilding7a_197
+  - first:
+      213: 6114484118785318754
+    second: intbuilding7a_198
+  - first:
+      213: 2814021494751918184
+    second: intbuilding7a_199
+  - first:
+      213: 6872400471063048998
+    second: intbuilding7a_200
+  - first:
+      213: 2368382743932059305
+    second: intbuilding7a_201
+  - first:
+      213: -5505476170779613747
+    second: intbuilding7a_202
+  - first:
+      213: -7015655009267818324
+    second: intbuilding7a_203
+  - first:
+      213: -339565104349221950
+    second: intbuilding7a_204
+  - first:
+      213: 4835244739800802293
+    second: intbuilding7a_205
+  - first:
+      213: 7271481953364375260
+    second: intbuilding7a_206
+  - first:
+      213: -3306689898867507545
+    second: intbuilding7a_207
+  - first:
+      213: 3534504658184107853
+    second: intbuilding7a_208
+  - first:
+      213: 7943612699134319292
+    second: intbuilding7a_209
+  - first:
+      213: -6846384814733994857
+    second: intbuilding7a_210
+  - first:
+      213: 4025607227388326174
+    second: intbuilding7a_211
+  - first:
+      213: 7450931470735630470
+    second: intbuilding7a_212
+  - first:
+      213: -4329286702124818225
+    second: intbuilding7a_213
+  - first:
+      213: -6175714177550116415
+    second: intbuilding7a_214
+  - first:
+      213: 7535963833842545254
+    second: intbuilding7a_215
+  - first:
+      213: -7498709763201316029
+    second: intbuilding7a_216
+  - first:
+      213: 3257886873931260041
+    second: intbuilding7a_217
+  - first:
+      213: -4860107587253249835
+    second: intbuilding7a_218
+  - first:
+      213: -5722594529788468465
+    second: intbuilding7a_219
+  - first:
+      213: 8411245014455426754
+    second: intbuilding7a_220
+  - first:
+      213: 6923393716570578734
+    second: intbuilding7a_221
+  - first:
+      213: 202071126792453274
+    second: intbuilding7a_222
+  - first:
+      213: 9041241928156283105
+    second: intbuilding7a_223
+  - first:
+      213: -762542821898175646
+    second: intbuilding7a_224
+  - first:
+      213: 8467973225298663688
+    second: intbuilding7a_225
+  - first:
+      213: -7517527040899834305
+    second: intbuilding7a_226
+  - first:
+      213: 4555022183314398132
+    second: intbuilding7a_227
+  - first:
+      213: -8432183263746375943
+    second: intbuilding7a_228
+  - first:
+      213: 2845102951311083202
+    second: intbuilding7a_229
+  - first:
+      213: 6187576988468011036
+    second: intbuilding7a_230
+  - first:
+      213: 2396982940520354827
+    second: intbuilding7a_231
+  - first:
+      213: -881820571562278355
+    second: intbuilding7a_232
+  - first:
+      213: -5131928672438076794
+    second: intbuilding7a_233
+  - first:
+      213: 8295983202571035037
+    second: intbuilding7a_234
+  - first:
+      213: 2313755067676470125
+    second: intbuilding7a_235
+  - first:
+      213: 3431800772540240164
+    second: intbuilding7a_236
+  - first:
+      213: -752283508178957717
+    second: intbuilding7a_237
+  - first:
+      213: -1237239247047086505
+    second: intbuilding7a_238
+  - first:
+      213: 9059719306417267839
+    second: intbuilding7a_239
+  - first:
+      213: -7865159693235575156
+    second: intbuilding7a_240
+  - first:
+      213: 5230236831307022279
+    second: intbuilding7a_241
+  - first:
+      213: 4097958938150101811
+    second: intbuilding7a_242
+  - first:
+      213: 2206897438409293425
+    second: intbuilding7a_243
+  - first:
+      213: 334600887482591553
+    second: intbuilding7a_244
+  - first:
+      213: 52716273636517667
+    second: intbuilding7a_245
+  - first:
+      213: -822162745084270242
+    second: intbuilding7a_246
+  - first:
+      213: -21633733138402043
+    second: intbuilding7a_247
+  - first:
+      213: -6467949051128841833
+    second: intbuilding7a_248
+  - first:
+      213: -968243381654029406
+    second: intbuilding7a_249
+  - first:
+      213: 1489180878599641101
+    second: intbuilding7a_250
+  - first:
+      213: 6864365984967747914
+    second: intbuilding7a_251
+  - first:
+      213: -1313851947698643635
+    second: intbuilding7a_252
+  - first:
+      213: 4967635577782372707
+    second: intbuilding7a_253
+  - first:
+      213: 2144437173807196829
+    second: intbuilding7a_254
+  - first:
+      213: 1261438877153793295
+    second: intbuilding7a_255
+  - first:
+      213: -1037691618933173552
+    second: intbuilding7a_256
+  - first:
+      213: -2064092164117543543
+    second: intbuilding7a_257
+  - first:
+      213: -9071937110334861128
+    second: intbuilding7a_258
+  - first:
+      213: -7310508062901984853
+    second: intbuilding7a_259
+  - first:
+      213: 2395719698333239728
+    second: intbuilding7a_260
+  - first:
+      213: 6415241238221868147
+    second: intbuilding7a_261
+  - first:
+      213: 3900073389003678347
+    second: intbuilding7a_262
+  - first:
+      213: 4390223216066405338
+    second: intbuilding7a_263
+  - first:
+      213: -5135899627589968046
+    second: intbuilding7a_264
+  - first:
+      213: 1964121079722531764
+    second: intbuilding7a_265
+  - first:
+      213: 8378607312380194829
+    second: intbuilding7a_266
+  - first:
+      213: -2654859494230349200
+    second: intbuilding7a_267
+  - first:
+      213: -6323250704659580664
+    second: intbuilding7a_268
+  - first:
+      213: 203572972708843324
+    second: intbuilding7a_269
+  - first:
+      213: -6806371696488312014
+    second: intbuilding7a_270
+  - first:
+      213: 3196609880653952241
+    second: intbuilding7a_271
+  - first:
+      213: -6601969121961911656
+    second: intbuilding7a_272
+  - first:
+      213: -5391246551178112473
+    second: intbuilding7a_273
+  - first:
+      213: -8558387734361140430
+    second: intbuilding7a_274
+  - first:
+      213: 7501108494845986835
+    second: intbuilding7a_275
+  - first:
+      213: 8283774547423844775
+    second: intbuilding7a_276
+  - first:
+      213: -4819732209196670186
+    second: intbuilding7a_277
+  - first:
+      213: 1456386389074225161
+    second: intbuilding7a_278
+  - first:
+      213: 3269275709626134451
+    second: intbuilding7a_279
+  - first:
+      213: -6447695848376407797
+    second: intbuilding7a_280
+  - first:
+      213: -2865648229649345237
+    second: intbuilding7a_281
+  - first:
+      213: 3292711296687875143
+    second: intbuilding7a_282
+  - first:
+      213: -5837366886027057297
+    second: intbuilding7a_283
+  - first:
+      213: -594626911809372088
+    second: intbuilding7a_284
+  - first:
+      213: 454499610841708293
+    second: intbuilding7a_285
+  - first:
+      213: 6359243385140435641
+    second: intbuilding7a_286
+  - first:
+      213: 4666851530535230718
+    second: intbuilding7a_287
+  - first:
+      213: 2899264074716815251
+    second: intbuilding7a_288
+  - first:
+      213: 7412031184545797931
+    second: intbuilding7a_289
+  - first:
+      213: 2463275788797311506
+    second: intbuilding7a_290
+  - first:
+      213: 6275020832646317360
+    second: intbuilding7a_291
+  - first:
+      213: -7922782306030096433
+    second: intbuilding7a_292
+  - first:
+      213: -5535270414707119159
+    second: intbuilding7a_293
+  - first:
+      213: -1254859625752452396
+    second: intbuilding7a_294
+  - first:
+      213: 4180363954952977573
+    second: intbuilding7a_295
+  - first:
+      213: 3754212731762694744
+    second: intbuilding7a_296
+  - first:
+      213: -8423875240326631977
+    second: intbuilding7a_297
+  - first:
+      213: 2575530201810505322
+    second: intbuilding7a_298
+  - first:
+      213: -1988175521755887423
+    second: intbuilding7a_299
+  - first:
+      213: -7445921977284690545
+    second: intbuilding7a_300
+  - first:
+      213: 6353378727370967176
+    second: intbuilding7a_301
+  - first:
+      213: -873188559061389039
+    second: intbuilding7a_302
+  - first:
+      213: -6013147830899862579
+    second: intbuilding7a_303
+  - first:
+      213: -369549044887102940
+    second: intbuilding7a_304
+  - first:
+      213: 4144343782268768923
+    second: intbuilding7a_305
+  - first:
+      213: 760889264553826321
+    second: intbuilding7a_306
+  - first:
+      213: -3285590649186260563
+    second: intbuilding7a_307
+  - first:
+      213: 5533706581441198384
+    second: intbuilding7a_308
+  - first:
+      213: -8252747389856664586
+    second: intbuilding7a_309
+  - first:
+      213: -324649675354108076
+    second: intbuilding7a_310
+  - first:
+      213: -2494679288316718074
+    second: intbuilding7a_311
+  - first:
+      213: 1384358679508343197
+    second: intbuilding7a_312
+  - first:
+      213: -2154444773024118240
+    second: intbuilding7a_313
+  - first:
+      213: 7742794580971927327
+    second: intbuilding7a_314
+  - first:
+      213: -466859018786204778
+    second: intbuilding7a_315
+  - first:
+      213: 4791101483817022815
+    second: intbuilding7a_316
+  - first:
+      213: -4391141894310032186
+    second: intbuilding7a_317
+  - first:
+      213: -8407009499274036698
+    second: intbuilding7a_318
+  - first:
+      213: -929698585160914260
+    second: intbuilding7a_319
+  - first:
+      213: -1023039180376534091
+    second: intbuilding7a_320
+  - first:
+      213: -4380005898624079422
+    second: intbuilding7a_321
+  - first:
+      213: 5861986260156854264
+    second: intbuilding7a_322
+  - first:
+      213: -5626443738099706932
+    second: intbuilding7a_323
+  - first:
+      213: 3098165804517312233
+    second: intbuilding7a_324
+  - first:
+      213: -4975957328310393053
+    second: intbuilding7a_325
+  - first:
+      213: 4372349114507410041
+    second: intbuilding7a_326
+  - first:
+      213: 2793471752657415311
+    second: intbuilding7a_327
+  - first:
+      213: 6142341147958841327
+    second: intbuilding7a_328
+  - first:
+      213: 5955424882994651239
+    second: intbuilding7a_329
+  - first:
+      213: -1251624897785750626
+    second: intbuilding7a_330
+  - first:
+      213: -7162365821540792526
+    second: intbuilding7a_331
+  - first:
+      213: -2155199308824330763
+    second: intbuilding7a_332
+  - first:
+      213: 5155446059385283324
+    second: intbuilding7a_333
+  - first:
+      213: -184817042688400781
+    second: intbuilding7a_334
+  - first:
+      213: -7673691586522172629
+    second: intbuilding7a_335
+  - first:
+      213: -4137945479848117371
+    second: intbuilding7a_336
+  - first:
+      213: -4088332112269353229
+    second: intbuilding7a_337
+  - first:
+      213: 6863451979640843400
+    second: intbuilding7a_338
+  - first:
+      213: 89999195095228398
+    second: intbuilding7a_339
+  - first:
+      213: 4276744643678707668
+    second: intbuilding7a_340
+  - first:
+      213: 3512728204985897365
+    second: intbuilding7a_341
+  - first:
+      213: 8992858048830459261
+    second: intbuilding7a_342
+  - first:
+      213: 8344306415268055425
+    second: intbuilding7a_343
+  - first:
+      213: -9076959283162430340
+    second: intbuilding7a_344
+  - first:
+      213: -8321712622121829082
+    second: intbuilding7a_345
+  - first:
+      213: -4411758799454813030
+    second: intbuilding7a_346
+  - first:
+      213: 5904107149516515843
+    second: intbuilding7a_347
+  - first:
+      213: -3750521553057331564
+    second: intbuilding7a_348
+  - first:
+      213: -862703389732002798
+    second: intbuilding7a_349
+  - first:
+      213: -7330040879948152379
+    second: intbuilding7a_350
+  - first:
+      213: -2958009285454458246
+    second: intbuilding7a_351
+  - first:
+      213: 3018178252206874251
+    second: intbuilding7a_352
+  - first:
+      213: -8923035280304752714
+    second: intbuilding7a_353
+  - first:
+      213: -7345377975638909001
+    second: intbuilding7a_354
+  - first:
+      213: 5590049540740955844
+    second: intbuilding7a_355
+  - first:
+      213: -5441646302196087765
+    second: intbuilding7a_356
+  - first:
+      213: 3326695952102165120
+    second: intbuilding7a_357
+  - first:
+      213: 18823705054646795
+    second: intbuilding7a_358
+  - first:
+      213: -5553467324389739712
+    second: intbuilding7a_359
+  - first:
+      213: 122098338716203426
+    second: intbuilding7a_360
+  - first:
+      213: -5595060256047522693
+    second: intbuilding7a_361
+  - first:
+      213: -2635215140671192774
+    second: intbuilding7a_362
+  - first:
+      213: 1607203838650662007
+    second: intbuilding7a_363
+  - first:
+      213: -9200615834253000388
+    second: intbuilding7a_364
+  - first:
+      213: -6926816868330092553
+    second: intbuilding7a_365
+  - first:
+      213: -3947515548612804391
+    second: intbuilding7a_366
+  - first:
+      213: 6509868621845175964
+    second: intbuilding7a_367
+  - first:
+      213: -2363574732702394243
+    second: intbuilding7a_368
+  - first:
+      213: -721603425617537017
+    second: intbuilding7a_369
+  - first:
+      213: -6037286504278025576
+    second: intbuilding7a_370
+  - first:
+      213: 5393762418796186406
+    second: intbuilding7a_371
+  - first:
+      213: -4281479205940481662
+    second: intbuilding7a_372
+  - first:
+      213: 8324667183111902667
+    second: intbuilding7a_373
+  - first:
+      213: 3018923114738573839
+    second: intbuilding7a_374
+  - first:
+      213: -6888437132180414606
+    second: intbuilding7a_375
+  - first:
+      213: -3907503245264294576
+    second: intbuilding7a_376
+  - first:
+      213: 5057792820849985656
+    second: intbuilding7a_377
+  - first:
+      213: -2670252391981658438
+    second: intbuilding7a_378
+  - first:
+      213: -3846464139159208414
+    second: intbuilding7a_379
+  - first:
+      213: -6898897667264314591
+    second: intbuilding7a_380
+  - first:
+      213: 590965442369985899
+    second: intbuilding7a_381
+  - first:
+      213: 6299191791717400409
+    second: intbuilding7a_382
+  - first:
+      213: -1889122492975608228
+    second: intbuilding7a_383
+  - first:
+      213: -8494674953751441709
+    second: intbuilding7a_384
+  - first:
+      213: 6904434496313700585
+    second: intbuilding7a_385
+  - first:
+      213: 7574814341306556417
+    second: intbuilding7a_386
+  - first:
+      213: 162370528356090948
+    second: intbuilding7a_387
+  - first:
+      213: 6667649840189709668
+    second: intbuilding7a_388
+  - first:
+      213: 6315370466546197258
+    second: intbuilding7a_389
+  - first:
+      213: -826372135672602854
+    second: intbuilding7a_390
+  - first:
+      213: 2310435824359680467
+    second: intbuilding7a_391
+  - first:
+      213: 1572863908586849433
+    second: intbuilding7a_392
+  - first:
+      213: 6829237780081262726
+    second: intbuilding7a_393
+  - first:
+      213: 950383814077711646
+    second: intbuilding7a_394
+  - first:
+      213: 3466055233557228085
+    second: intbuilding7a_395
+  - first:
+      213: -5349510719549423
+    second: intbuilding7a_396
+  - first:
+      213: -2313013594238643606
+    second: intbuilding7a_397
+  - first:
+      213: -2917925039908251042
+    second: intbuilding7a_398
+  - first:
+      213: -1127207849840540750
+    second: intbuilding7a_399
+  - first:
+      213: -57696440653219841
+    second: intbuilding7a_400
+  - first:
+      213: -2568114687148276858
+    second: intbuilding7a_401
+  - first:
+      213: 6576825354264355549
+    second: intbuilding7a_402
+  - first:
+      213: -7660365728562013144
+    second: intbuilding7a_403
+  - first:
+      213: -2348638709724636259
+    second: intbuilding7a_404
+  - first:
+      213: -1836580549568504774
+    second: intbuilding7a_405
+  - first:
+      213: -3175747085582870716
+    second: intbuilding7a_406
+  - first:
+      213: -6792326288721958598
+    second: intbuilding7a_407
+  - first:
+      213: -3181632485358636359
+    second: intbuilding7a_408
+  - first:
+      213: -3477689483978863117
+    second: intbuilding7a_409
+  - first:
+      213: -4986402090854039180
+    second: intbuilding7a_410
+  - first:
+      213: -2238950256367480371
+    second: intbuilding7a_411
+  - first:
+      213: -7796561103963547022
+    second: intbuilding7a_412
+  - first:
+      213: 3562130556050873012
+    second: intbuilding7a_413
+  - first:
+      213: 8857956643822123248
+    second: intbuilding7a_414
+  - first:
+      213: -5007212669775263628
+    second: intbuilding7a_415
+  - first:
+      213: -8169332774405845270
+    second: intbuilding7a_416
+  - first:
+      213: 2512680596485001721
+    second: intbuilding7a_417
+  - first:
+      213: 4459732629614593055
+    second: intbuilding7a_418
+  - first:
+      213: -6963836464751653802
+    second: intbuilding7a_419
+  - first:
+      213: -572153669461252087
+    second: intbuilding7a_420
+  - first:
+      213: -6740729111868730833
+    second: intbuilding7a_421
+  - first:
+      213: -952919925678897205
+    second: intbuilding7a_422
+  - first:
+      213: 5741025131628015296
+    second: intbuilding7a_423
+  - first:
+      213: -317994767166490865
+    second: intbuilding7a_424
+  - first:
+      213: 3532197821824502475
+    second: intbuilding7a_425
+  - first:
+      213: -6895470098916844228
+    second: intbuilding7a_426
+  - first:
+      213: -8951915382462559828
+    second: intbuilding7a_427
+  - first:
+      213: -4523246088618494119
+    second: intbuilding7a_428
+  - first:
+      213: -6776258905507897972
+    second: intbuilding7a_429
+  - first:
+      213: -6514759357729063828
+    second: intbuilding7a_430
+  - first:
+      213: -5325389180482658740
+    second: intbuilding7a_431
+  - first:
+      213: -5447629081212698726
+    second: intbuilding7a_432
+  - first:
+      213: 2198182910036897998
+    second: intbuilding7a_433
+  - first:
+      213: 6977331540699143678
+    second: intbuilding7a_434
+  - first:
+      213: 3858808965709225717
+    second: intbuilding7a_435
+  - first:
+      213: -7814292150886863835
+    second: intbuilding7a_436
+  - first:
+      213: -2600609924818331593
+    second: intbuilding7a_437
+  - first:
+      213: 4570537661245285858
+    second: intbuilding7a_438
+  - first:
+      213: 163285621979158684
+    second: intbuilding7a_439
+  - first:
+      213: -1365564296356912895
+    second: intbuilding7a_440
+  - first:
+      213: 2135481482664220115
+    second: intbuilding7a_441
+  - first:
+      213: 1627894712034636249
+    second: intbuilding7a_442
+  - first:
+      213: 1768867811160277037
+    second: intbuilding7a_443
+  - first:
+      213: -6852206542609790098
+    second: intbuilding7a_444
+  - first:
+      213: 2464791139376802811
+    second: intbuilding7a_445
+  - first:
+      213: -5903047653119001944
+    second: intbuilding7a_446
+  - first:
+      213: -6729614738070147624
+    second: intbuilding7a_447
+  - first:
+      213: -4747767557926877273
+    second: intbuilding7a_448
+  - first:
+      213: 2627470426517956189
+    second: intbuilding7a_449
+  - first:
+      213: -1667102255607444038
+    second: intbuilding7a_450
+  - first:
+      213: -5803149629411215230
+    second: intbuilding7a_451
+  - first:
+      213: 4842069258699454169
+    second: intbuilding7a_452
+  - first:
+      213: 4138081468574931450
+    second: intbuilding7a_453
+  - first:
+      213: 6209042153892296359
+    second: intbuilding7a_454
+  - first:
+      213: 5118531828861905026
+    second: intbuilding7a_455
+  - first:
+      213: -3180426179141884412
+    second: intbuilding7a_456
+  - first:
+      213: 5482140654163530477
+    second: intbuilding7a_457
+  - first:
+      213: -3798264811900132890
+    second: intbuilding7a_458
+  - first:
+      213: 4015820825936168121
+    second: intbuilding7a_459
+  - first:
+      213: -3384930298939730271
+    second: intbuilding7a_460
+  - first:
+      213: -5715624151148146005
+    second: intbuilding7a_461
+  - first:
+      213: -6039383788371288973
+    second: intbuilding7a_462
+  - first:
+      213: 342449111600235106
+    second: intbuilding7a_463
+  - first:
+      213: -2343333891093101993
+    second: intbuilding7a_464
+  - first:
+      213: -3577666584373341674
+    second: intbuilding7a_465
+  - first:
+      213: 2596857451751232818
+    second: intbuilding7a_466
+  - first:
+      213: -7222243433640875391
+    second: intbuilding7a_467
+  - first:
+      213: 6343978095093333082
+    second: intbuilding7a_468
+  - first:
+      213: -38216719714566380
+    second: intbuilding7a_469
+  - first:
+      213: -1958878675439895958
+    second: intbuilding7a_470
+  - first:
+      213: -8754516469244417680
+    second: intbuilding7a_471
+  - first:
+      213: -5762693330608180506
+    second: intbuilding7a_472
+  - first:
+      213: -3439479655494937742
+    second: intbuilding7a_473
+  - first:
+      213: 6536628530411331698
+    second: intbuilding7a_474
+  - first:
+      213: 1158799515113104414
+    second: intbuilding7a_475
+  - first:
+      213: 8795895222853955780
+    second: intbuilding7a_476
+  - first:
+      213: -603061578734979956
+    second: intbuilding7a_477
+  - first:
+      213: -5779641012275794925
+    second: intbuilding7a_478
+  - first:
+      213: 7468997293911367300
+    second: intbuilding7a_479
+  - first:
+      213: -9036676430352066899
+    second: intbuilding7a_480
+  - first:
+      213: 1622240631692268718
+    second: intbuilding7a_481
+  - first:
+      213: 1384645346892590503
+    second: intbuilding7a_482
+  - first:
+      213: -8381413952853119614
+    second: intbuilding7a_483
+  - first:
+      213: -9044248544596384262
+    second: intbuilding7a_484
+  - first:
+      213: 6269970947099765143
+    second: intbuilding7a_485
+  - first:
+      213: 1947042300142185957
+    second: intbuilding7a_486
+  - first:
+      213: 3589133299338966192
+    second: intbuilding7a_487
+  - first:
+      213: -7398194084580054445
+    second: intbuilding7a_488
+  - first:
+      213: -7379110989776236883
+    second: intbuilding7a_489
+  - first:
+      213: 1640963146743722062
+    second: intbuilding7a_490
+  - first:
+      213: -7513120567731210043
+    second: intbuilding7a_491
+  - first:
+      213: -1441748356691055158
+    second: intbuilding7a_492
+  - first:
+      213: 9082377849128387596
+    second: intbuilding7a_493
+  - first:
+      213: -6056877499433415344
+    second: intbuilding7a_494
+  - first:
+      213: -7369907774640414920
+    second: intbuilding7a_495
+  - first:
+      213: -6313983400440974693
+    second: intbuilding7a_496
+  - first:
+      213: -4125262796565273847
+    second: intbuilding7a_497
+  - first:
+      213: 2017006543546667334
+    second: intbuilding7a_498
+  - first:
+      213: -773930754243517276
+    second: intbuilding7a_499
+  - first:
+      213: -370164832779245585
+    second: intbuilding7a_500
+  - first:
+      213: 6459983740433720319
+    second: intbuilding7a_501
+  - first:
+      213: 1864075250980545608
+    second: intbuilding7a_502
+  - first:
+      213: -2176743571745384095
+    second: intbuilding7a_503
+  - first:
+      213: -2182596022124385950
+    second: intbuilding7a_504
+  - first:
+      213: 8966417563002809040
+    second: intbuilding7a_505
+  - first:
+      213: 1485258606506779880
+    second: intbuilding7a_506
+  - first:
+      213: 2242637386321936708
+    second: intbuilding7a_507
+  - first:
+      213: 7264917246322681001
+    second: intbuilding7a_508
+  - first:
+      213: -2470823969100237835
+    second: intbuilding7a_509
+  - first:
+      213: 3098606615385268708
+    second: intbuilding7a_510
+  - first:
+      213: -4755983585022156369
+    second: intbuilding7a_511
+  - first:
+      213: 7181602616540879430
+    second: intbuilding7a_512
+  - first:
+      213: -7307762753170039867
+    second: intbuilding7a_513
+  - first:
+      213: 6873747084885235698
+    second: intbuilding7a_514
+  - first:
+      213: 903492857912398667
+    second: intbuilding7a_515
+  - first:
+      213: 3006898924879499859
+    second: intbuilding7a_516
+  - first:
+      213: -6827539282108321485
+    second: intbuilding7a_517
+  - first:
+      213: -6825800662627588266
+    second: intbuilding7a_518
+  - first:
+      213: 2068809214473959532
+    second: intbuilding7a_519
+  - first:
+      213: -2423807917720309544
+    second: intbuilding7a_520
+  - first:
+      213: 4766484404415083569
+    second: intbuilding7a_521
+  - first:
+      213: 999162935220872553
+    second: intbuilding7a_522
+  - first:
+      213: 7948950672939559673
+    second: intbuilding7a_523
+  - first:
+      213: 6374888631864187529
+    second: intbuilding7a_524
+  - first:
+      213: 9077449215533788582
+    second: intbuilding7a_525
+  - first:
+      213: 3181804722081628673
+    second: intbuilding7a_526
+  - first:
+      213: -6702517364744529124
+    second: intbuilding7a_527
+  - first:
+      213: -887108917722709419
+    second: intbuilding7a_528
+  - first:
+      213: 205002216002379307
+    second: intbuilding7a_529
+  - first:
+      213: -4936893099665331679
+    second: intbuilding7a_530
+  - first:
+      213: 5845215927554301692
+    second: intbuilding7a_531
+  - first:
+      213: 281137041997344179
+    second: intbuilding7a_532
+  - first:
+      213: 4902987978070500129
+    second: intbuilding7a_533
+  - first:
+      213: -7925535635384796287
+    second: intbuilding7a_534
+  - first:
+      213: -8170164174905943038
+    second: intbuilding7a_535
+  - first:
+      213: 3713159554345551823
+    second: intbuilding7a_536
+  - first:
+      213: 2942978401299695650
+    second: intbuilding7a_537
+  - first:
+      213: -8955484343147109013
+    second: intbuilding7a_538
+  - first:
+      213: -8752969546157169036
+    second: intbuilding7a_539
+  - first:
+      213: -30457757406249220
+    second: intbuilding7a_540
+  - first:
+      213: -4696083618532324492
+    second: intbuilding7a_541
+  - first:
+      213: -4233980974563323092
+    second: intbuilding7a_542
+  - first:
+      213: 8846087072152561903
+    second: intbuilding7a_543
+  - first:
+      213: 7332243444673838471
+    second: intbuilding7a_544
+  - first:
+      213: 6136161198827970409
+    second: intbuilding7a_545
+  - first:
+      213: -1337970387218667520
+    second: intbuilding7a_546
+  - first:
+      213: -5634789884787961599
+    second: intbuilding7a_547
+  - first:
+      213: -473902282460040255
+    second: intbuilding7a_548
+  - first:
+      213: -890501267030293019
+    second: intbuilding7a_549
+  - first:
+      213: -8135645463971882555
+    second: intbuilding7a_550
+  - first:
+      213: -2202091061928482220
+    second: intbuilding7a_551
+  - first:
+      213: 6364103205377922861
+    second: intbuilding7a_552
+  - first:
+      213: -4979215323962918287
+    second: intbuilding7a_553
+  - first:
+      213: 1518699385335626313
+    second: intbuilding7a_554
+  - first:
+      213: -1768139669690589138
+    second: intbuilding7a_555
+  - first:
+      213: 7927459334449507448
+    second: intbuilding7a_556
+  - first:
+      213: 2226544089734486595
+    second: intbuilding7a_557
+  - first:
+      213: 2381979467095858103
+    second: intbuilding7a_558
+  - first:
+      213: -8442207605232253372
+    second: intbuilding7a_559
+  - first:
+      213: -4072349554854807030
+    second: intbuilding7a_560
+  - first:
+      213: 6001623746375098502
+    second: intbuilding7a_561
+  - first:
+      213: 5088359038311827899
+    second: intbuilding7a_562
+  - first:
+      213: 6597317999667106295
+    second: intbuilding7a_563
+  - first:
+      213: -4701601491693676522
+    second: intbuilding7a_564
+  - first:
+      213: 6814321520851778815
+    second: intbuilding7a_565
+  - first:
+      213: 5722094134722751259
+    second: intbuilding7a_566
+  - first:
+      213: 1358567639007234460
+    second: intbuilding7a_567
+  - first:
+      213: -920862586136754671
+    second: intbuilding7a_568
+  - first:
+      213: -7910091218860517188
+    second: intbuilding7a_569
+  - first:
+      213: 6841681540094212041
+    second: intbuilding7a_570
+  - first:
+      213: -124167014264344241
+    second: intbuilding7a_571
+  - first:
+      213: 8833662371675596367
+    second: intbuilding7a_572
+  - first:
+      213: -3205361555903624123
+    second: intbuilding7a_573
+  - first:
+      213: 6046073223161622113
+    second: intbuilding7a_574
+  - first:
+      213: -4278926892975721874
+    second: intbuilding7a_575
+  - first:
+      213: 5627304654351654402
+    second: intbuilding7a_576
+  - first:
+      213: 2832880661971078502
+    second: intbuilding7a_577
+  - first:
+      213: 3585142445512310477
+    second: intbuilding7a_578
+  - first:
+      213: -3192887328157884311
+    second: intbuilding7a_579
+  - first:
+      213: -7957931410390133432
+    second: intbuilding7a_580
+  - first:
+      213: 8604006841093395140
+    second: intbuilding7a_581
+  - first:
+      213: -2918496921877564549
+    second: intbuilding7a_582
+  - first:
+      213: -6696522527796946563
+    second: intbuilding7a_583
+  - first:
+      213: -8386806328838950889
+    second: intbuilding7a_584
+  - first:
+      213: -3066556085105314233
+    second: intbuilding7a_585
+  - first:
+      213: 4076396439079932060
+    second: intbuilding7a_586
+  - first:
+      213: 344425483168871682
+    second: intbuilding7a_587
+  - first:
+      213: 8654090697989715142
+    second: intbuilding7a_588
+  - first:
+      213: -4602612122812972005
+    second: intbuilding7a_589
+  - first:
+      213: 8254786147066223857
+    second: intbuilding7a_590
+  - first:
+      213: 8580875487937991780
+    second: intbuilding7a_591
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: intbuilding7a_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 362
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccf22ee8137f1bd20800000000000000
+      internalID: 3292684594807189452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_1
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 362
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 061256e9e12bd64a0800000000000000
+      internalID: -6598422034451717792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_2
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 362
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5c2f9b1522ec01e0800000000000000
+      internalID: -2230159066450154401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_3
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 362
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc662f22f98ba7ce0800000000000000
+      internalID: -1406608939974236467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_4
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 362
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34031edd55041ea70800000000000000
+      internalID: 8854429079926026307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_5
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 362
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cf042cb601531e90800000000000000
+      internalID: -7056207101791301689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_6
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 362
+        width: 44
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b73e325874cdcbe0800000000000000
+      internalID: -1455291083515873358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_7
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 362
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e3cf447fb934c8d0800000000000000
+      internalID: -2827071171628907551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_8
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 362
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6a4bfad6c8f22f0800000000000000
+      internalID: -995422589898414366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_9
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 362
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3e01d22bf58fb20800000000000000
+      internalID: 3168387556720042942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 326
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef2504c85402cb80800000000000000
+      internalID: -8376127577663393822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_11
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 326
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0adcf33262bd73c0800000000000000
+      internalID: -4360132729376024050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_12
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 326
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1c4b7634e90baf0800000000000000
+      internalID: -382631955986595345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_13
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 326
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0105b84eeb1a6cca0800000000000000
+      internalID: -5996928012547043312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_14
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 326
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9656b5bf3befdc450800000000000000
+      internalID: 6110820318381303145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_15
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 326
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d92860ab45f89e80800000000000000
+      internalID: -8171511818701231656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_16
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 334
+        width: 5
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836a65d4584f6dcd0800000000000000
+      internalID: -2533568886983973320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_17
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 328
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5378b68a4d8fe00800000000000000
+      internalID: 1078845930578851238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_18
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 330
+        width: 5
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d659ca37e10ccd50800000000000000
+      internalID: 6758779233411618512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_19
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 326
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012a0e72c5506eaf0800000000000000
+      internalID: -367600426219953648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_20
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 326
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f0f6a2b95a5f8d70800000000000000
+      internalID: 9047549517706490096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_21
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 326
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36230cfb6ff3b2f0800000000000000
+      internalID: -958141456445135300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_22
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 290
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719bdc2829e504490800000000000000
+      internalID: -7764101774233978601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_23
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 290
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ad36f168f26c230800000000000000
+      internalID: 3658664000383867414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_24
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 290
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e242c186889d7aef0800000000000000
+      internalID: -96869687079721938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_25
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 290
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0969451f52fd5e7c0800000000000000
+      internalID: -4042579736439515504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_26
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 290
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3171a8eda825210800000000000000
+      internalID: 1320270329177117611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_27
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 290
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2dc2b92c53e04d0800000000000000
+      internalID: -3166534378051546424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_28
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 290
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aeb8a28e57479250800000000000000
+      internalID: 5951303903837994660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_29
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 290
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2340efc4fb8e4e1f0800000000000000
+      internalID: -1016431707550776270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_30
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 290
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b0992c966a6e5e0800000000000000
+      internalID: -1880632821214016745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_31
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 254
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 321c9cd4d34ee8e00800000000000000
+      internalID: 1049026715173110051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_32
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 254
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5b4de39788e44240800000000000000
+      internalID: 4775197173919599452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_33
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 254
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6e24fc194ae71b40800000000000000
+      internalID: 5411051077048217199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_34
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 254
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6338dbaa2c4a23e0800000000000000
+      internalID: -2077764531922652305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_35
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 254
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbc097033dfe50540800000000000000
+      internalID: 4973645053830958268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_36
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 254
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39acc03a7ab1fcca0800000000000000
+      internalID: -5994542172197827949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_37
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 254
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9365238cc887b6fd0800000000000000
+      internalID: -2347650234694085063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_38
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 254
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f46800525b1860210800000000000000
+      internalID: 1298868157552821839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_39
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 180
+        width: 65
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f6078ead4a5d78b0800000000000000
+      internalID: -5152863108954913034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_40
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac1b207a57bb27130800000000000000
+      internalID: 3563116369191023050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_41
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50af014bcd190cdb0800000000000000
+      internalID: -4773655227912881659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_42
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15885201079ee9190800000000000000
+      internalID: -7953663224373213103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_43
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc9f3e04e1d2b3be0800000000000000
+      internalID: -1496552843209606708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_44
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d42f8ea494cdf63f0800000000000000
+      internalID: -905262792730676659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_45
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 752ec11315e824c00800000000000000
+      internalID: 883424956285510231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_46
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 218
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ca92dcbcaf2a2b0800000000000000
+      internalID: -5574617635503887202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_47
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 182
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08bb0881df382ee00800000000000000
+      internalID: 1072564784328653696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_48
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 182
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe5ad34de5cb1120800000000000000
+      internalID: 2385718050459115259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_49
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 182
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f6bd679c4a3abd0800000000000000
+      internalID: -2620069373010022571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_50
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 182
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dc629058fbe6b9f0800000000000000
+      internalID: -452915260767965993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_51
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 182
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd12db999273ddd0800000000000000
+      internalID: -2462498567171727946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_52
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 182
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a80b79852941440f0800000000000000
+      internalID: -1133758587406405494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_53
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 182
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22fa927089dcadd70800000000000000
+      internalID: 9068786852502810402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_54
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 182
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1603f100997b5e0800000000000000
+      internalID: -1893876892483689991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_55
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 182
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8786383ac188ba0800000000000000
+      internalID: -6086583407781316384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_56
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 182
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ed5257f66bb5afe0800000000000000
+      internalID: -1178329676577088026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_57
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 182
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8870ee0f71fd3930800000000000000
+      internalID: 4124718361753974926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_58
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 182
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02f41732449529a60800000000000000
+      internalID: 7679298463807393568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_59
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 146
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 606868662c144c940800000000000000
+      internalID: 5315445763403580934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_60
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0a5774522e8c4a0800000000000000
+      internalID: -6572755006406680330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_61
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 146
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a041e5f293013c60800000000000000
+      internalID: 7796016359680327840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_62
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 146
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fa86788d4dca6340800000000000000
+      internalID: 4857920880958147318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_63
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a279486e2b12d10800000000000000
+      internalID: 2099155604468083242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_64
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f85e4c1849a449be0800000000000000
+      internalID: -1471469176550529649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_65
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5bf76bb92fc970a0800000000000000
+      internalID: -6883242777314329764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_66
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097dd2d5751a4faa0800000000000000
+      internalID: -6128095796346890352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_67
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 146
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537f113bd4061e7d0800000000000000
+      internalID: -2890923598962100427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_68
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 146
+        width: 65
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d7096f13d96439a0800000000000000
+      internalID: -6254257627024783402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_69
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 154
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf624f06f6d31950800000000000000
+      internalID: 6418710246239399852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_70
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 146
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c263902a70bedfb70800000000000000
+      internalID: 8934555653788743212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_71
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 110
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4175e2738e110ba10800000000000000
+      internalID: 1923056729943070484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_72
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 110
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f8b2ffa19198ea0800000000000000
+      internalID: -5870133035559841895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_73
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 110
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266e179adedc15040800000000000000
+      internalID: 4634711912174708322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_74
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 110
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc1b9972f0bcfcd0800000000000000
+      internalID: -2522947135765537608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_75
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 110
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6b72e155c5170d0800000000000000
+      internalID: -3426856320804342032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_76
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 110
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7272808cb6b818d30800000000000000
+      internalID: 4431976803343017767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_77
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 110
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57f4f8bbd75b078a0800000000000000
+      internalID: -6309343526323794059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_78
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 110
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0da8efb06a192200800000000000000
+      internalID: 155684664959872266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_79
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 110
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e3f93dd5e63f140800000000000000
+      internalID: 4752263381067447877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_80
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 110
+        width: 7
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ce4b24377f49d140800000000000000
+      internalID: 4744911055806484160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_81
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 110
+        width: 7
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 804aa2dff2a7fb340800000000000000
+      internalID: 4881754867622388744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_82
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 74
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe478fbe431be2ef0800000000000000
+      internalID: -130972498291821329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_83
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 74
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fe7d2d9311e79bc0800000000000000
+      internalID: -3776302288169238799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_84
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 74
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80784f92acef09580800000000000000
+      internalID: -8822271525778061560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_85
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 74
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469929a80c49323e0800000000000000
+      internalID: -2079655048235542172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_86
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 74
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc852a824a07ada0800000000000000
+      internalID: -5933762703135503110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_87
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 74
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a014f0b0e62f9530800000000000000
+      internalID: 3863849751790489760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_88
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 74
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9bcf2c8cf49b560800000000000000
+      internalID: 7329977592205588967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_89
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 74
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56f63044a854f9f50800000000000000
+      internalID: 6890302415049027429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_90
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 74
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a648e394c567fb50800000000000000
+      internalID: 6626877271668442788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_91
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 74
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c936fd76b006b70800000000000000
+      internalID: 8890118205186743319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_92
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 74
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed2ab12f51367f830800000000000000
+      internalID: 4104858531278856926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_93
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 74
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9083bcf645cec39a0800000000000000
+      internalID: -6251862335300093943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_94
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d37b6486af389c50800000000000000
+      internalID: 6672152832368145367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_95
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1c113ef044799670800000000000000
+      internalID: 8545989590403587100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_96
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4b352179230bd7c0800000000000000
+      internalID: -4045636363735450806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_97
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad1effcb61456b60800000000000000
+      internalID: 7738663466012908962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_98
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f88210b0066db50800000000000000
+      internalID: 6617582302847864702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_99
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989d2f7a05d9623a0800000000000000
+      internalID: -6690487226671638135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_100
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4986124d88e27d910800000000000000
+      internalID: 1862008136150378644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_101
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1656209c8d9dd09c0800000000000000
+      internalID: -3959268972280257183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_102
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24315b845b7226d20800000000000000
+      internalID: 3270219938986791746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_103
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e370f28f33f2cb5f0800000000000000
+      internalID: -739664338541934786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_104
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3135dd840cc68cfd0800000000000000
+      internalID: -2321486034797505773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_105
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 38
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10d77af154a15bef0800000000000000
+      internalID: -93139333105091327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_106
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99f5b96ac8d6f3a0800000000000000
+      internalID: -6631875037387949666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_107
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61fbf1c145e268e90800000000000000
+      internalID: -7023875630053736682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_108
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ba52c3e31012bf0800000000000000
+      internalID: -350997929149486255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_109
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9898a3533e60cf760800000000000000
+      internalID: 7492871452958034313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_110
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8043d208cb9a8a7a0800000000000000
+      internalID: -6365651446218804216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_111
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c46c259c7254a80800000000000000
+      internalID: -8483330577451824005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_112
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef70fe8ee5ed9f7c0800000000000000
+      internalID: -4036951091744667650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_113
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ecca4d4ac92421e0800000000000000
+      internalID: -2223606367157302048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_114
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efda14b2cee2a6750800000000000000
+      internalID: 6298898620703944190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_115
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb4116666f7b4ec40800000000000000
+      internalID: 5540755710480028860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_116
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9fcf148545fe25e0800000000000000
+      internalID: -1932337511177138273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: intbuilding7a_117
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 2
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6154236d6aaa4cfa0800000000000000
+      internalID: -5781308388101962474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
